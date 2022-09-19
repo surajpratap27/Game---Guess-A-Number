@@ -1,2 +1,1 @@
-# Game---Guess-A-Number
-It's a Game of guessing number!!!
+Preview : https://surajpratap27.github.io/Game---Guess-A-Number/
